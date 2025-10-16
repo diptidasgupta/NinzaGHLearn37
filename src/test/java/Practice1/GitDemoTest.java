@@ -8,8 +8,13 @@ public class GitDemoTest {
 	public void AppleTest()
 	{
 		System.out.println("Apple");
+
+		System.out.println("Pineapple");
+
 		System.out.println("Grapes");
+
 		System.out.println("Guava");
+
 	}
 
 }

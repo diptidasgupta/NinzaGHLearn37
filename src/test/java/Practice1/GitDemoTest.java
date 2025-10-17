@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class GitDemoTest {
 	
-	@Test
+	@Test(groups="smoke")
 	public void AppleTest()
 	{
 		System.out.println("Apple");

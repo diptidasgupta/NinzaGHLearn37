@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class Practice2GitDemoTest {
 
-	@Test
+	@Test(groups="regression")
 	public void OrangeTest()
 	{
 		System.out.println("Orange");

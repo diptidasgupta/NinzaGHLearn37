@@ -8,5 +8,6 @@ public class Practice2GitDemoTest {
 	public void OrangeTest()
 	{
 		System.out.println("Orange");
+		System.out.println("Orange1234");
 	}
 }
